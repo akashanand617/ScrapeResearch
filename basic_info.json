@@ -1,0 +1,423 @@
+{
+    "Ian Davidson": {
+        "profile_url": "https://cs.ucdavis.edu/directory/ian-davidson",
+        "tag": [
+            "artificial-intelligence",
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~davidson/"
+        ],
+        "email": "davidson@cs.ucdavis.edu",
+        "description": "\nArtificial Intelligence, machine learning, data mining\nProfessor Davidson is interested in fundamental research to extend the capabilities of artificial intelligence (AI). This involves developing areas of AI to widen its application such as explainable AI, fairness in AI, learning to learn and combining symbolic and sub-symbolic AI. He works with others to apply his work to novel problems of social importance. Recent applications include neuroscience, intelligent tutoring systems and tests of general intelligence."
+    },
+    "Randall O\u2019Reilly": {
+        "profile_url": "https://cs.ucdavis.edu/directory/randall-o%27reilly",
+        "tag": [
+            "artificial-intelligence",
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://neuroscience.sf.ucdavis.edu/people/randall-oreilly",
+            "https://ccnlab.org"
+        ],
+        "email": "oreilly@ucdavis.edu",
+        "description": "\nComputational models of the brain, computer vision, artificial intelligence\nO'Reilly develops computational and formal models of the biological bases of cognition (computational cognitive neuroscience). His group focuses on specialization of function in and interactions between hippocampus, prefrontal cortex/basal ganglia and posterior neocortex in learning, memory, attention and controlled processing. He tests predictions from these models using a range of behavioral and other experimental techniques."
+    },
+    "Ilias Tagkopoulos": {
+        "profile_url": "https://cs.ucdavis.edu/directory/ilias-tagkopoulos",
+        "tag": [
+            "artificial-intelligence",
+            "machine-learning",
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://tagkopouloslab.ucdavis.edu/"
+        ],
+        "email": null,
+        "description": "\nBioinformatics, machine learning, artificial intelligence, data science\nProfessor Tagkopoulos leads the Integrated Biology and Predictive Analytics lab, where computer scientists and biologists apply interdisciplinary techniques to solve challenges in life sciences. His team works on the theory and design of novel machine learning algorithms, multi-scale models, transfer and active learning frameworks on nutritional, medical and biological data. Computational results are experimentally validated in our microbiology lab, located in the Genome Center.\nPrior to joining UC Davis, he was with Princeton\u2019s Lewis-Sigler Institute for Integrative Genomics and in Credit Suisse\u2019s LOCuS fixed-income derivatives group."
+    },
+    "Jiawei Zhang": {
+        "profile_url": "https://cs.ucdavis.edu/directory/jiawei-zhang",
+        "tag": [
+            "artificial-intelligence",
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://jiaweizhang.net/",
+            "http://www.ifmlab.org/index.html"
+        ],
+        "email": "jiwzhang@ucdavis.edu",
+        "description": "\nArtificial Intelligence, Deep Learning, Machine Learning, Data Mining\nProfessor Zhang\u2019s research interests focus on deep learning, machine learning and data mining, with emphasis on addressing the real-world artificial intelligence (AI) and data science (DS) problems by proposing novel machine learning algorithms. Professor Zhang has been working on graph neural networks, graph mining, recommender systems, natural language processing, social networks mining and neuroscience, and has published papers in top conferences and journals, including AAAI, IJCAI, KDD, WWW, ICDE, SIGIR, EMNLP."
+    },
+    "Zhe Zhao": {
+        "profile_url": "https://cs.ucdavis.edu/people/zhe-zhao",
+        "tag": [
+            "artificial-intelligence",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://sites.google.com/view/zhezhao"
+        ],
+        "email": "zao@ucdavis.edu",
+        "description": "\nMy research interests span across deep learning, efficiency and robustness, and their applications. I am particularly interested in the efficiency and robustness of machine learning models over various of applications, including natural language understanding, computer vision and recommendation systems."
+    },
+    "Muhao  Chen": {
+        "profile_url": "https://cs.ucdavis.edu/directory/muhao-chen",
+        "tag": [
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://luka-group.github.io/",
+            "https://muhaochen.github.io/",
+            "https://twitter.com/muhao_chen"
+        ],
+        "email": "muhchen@ucdavis.edu",
+        "description": "\nI direct the Language Understanding and Knowledge Acquisition (LUKA) Lab. My research focuses on robust and minimally supervised data-driven machine learning for natural language processing, as well as accountability and security problems with large language models. Our long-term goal is to develop robust, generalizable and trustworthy learning systems that help machines understand nature."
+    },
+    "Yubei Chen": {
+        "profile_url": "https://cs.ucdavis.edu/directory/yubei-chen",
+        "tag": [
+            "machine-learning"
+        ],
+        "websites": [
+            "https://yubeichen.com/"
+        ],
+        "email": "ybchen@ucdavis.edu",
+        "description": "\nDr. Chen's research is at the intersection of computational neuroscience and deep unsupervised/self-supervised learning, sensorimotor representation, NeuroAI and computational neuroscience, world models, and efficient deep learning."
+    },
+    "R. Holland Cheng": {
+        "profile_url": "https://cs.ucdavis.edu/directory/r-holland-cheng",
+        "tag": [
+            "machine-learning"
+        ],
+        "websites": [
+            "http://pioms.ucdavis.edu/"
+        ],
+        "email": "rhch@ucdavis.edu",
+        "description": "\nProteome imaging of macromolecular systems - PIOMS\nOur research aims to understand the structure and function of macromolecular interactions by selected model macromolecular systems. Viral structural proteins have the capacity to function both in assembly and in disassembly, which is made possible through a built-in flexibility triggered by cellular events. We observe conformational changes of viral particles at various states of their life cycle to analyze their assembly intermediates as well as the mature forms. Similarly, infectious virions can be treated with numerous conditions, e.g. receptor-mediated genome release or acid-activated membrane fusion, to observe the key steps of viral re-entry into host cells. Using electron microscopy, we apply a rapid-frozen and low-dose imaging procedure to best preserve the biological specimen in its native form. Computer image processing is developed to retrieve most of the useful signal from the low-contrast micrographs. Technical implementation of cryo-EM, cellular tomography, and computational modeling schemes also enables us to address interactions involved in complex biological molecules and/or nanoscale machines."
+    },
+    "Chen-Nee Chuah": {
+        "profile_url": "https://cs.ucdavis.edu/directory/chen-nee-chuah",
+        "tag": [
+            "machine-learning",
+            "data-science"
+        ],
+        "websites": [
+            "https://www.ece.ucdavis.edu/~chuah"
+        ],
+        "email": "chuah@ucdavis.edu",
+        "description": "\nNetworks and distributed systems, data science, intelligent learning, smart health, intelligent transportation systems\nDr. Chuah seeks to understand large-scale networked systems and learning-driven information processing, computation, and control. Her Robust & Ubiquitous Networking (RUbiNet) Lab focuses on developing data driven approach to design adaptive control and security detection mechanisms in different production networks, including IP-backbones, wireless networks, data centers, online social platforms, and software defined networks. Chuah is also interested in applying advanced data science and machine learning techniques to different application domains, including smart health and intelligent transportation. Real-time analytic platforms and AI-assistant clinical decision support systems has the potential to transform healthcare delivery from critical care to chronic disease management."
+    },
+    "Jesus De Loera": {
+        "profile_url": "https://cs.ucdavis.edu/directory/jesus-de-loera",
+        "tag": [
+            "machine-learning",
+            "data-science"
+        ],
+        "websites": [
+            "https://www.math.ucdavis.edu/~deloera/"
+        ],
+        "email": "deloera@math.ucdavis.edu",
+        "description": "\nProfessor Jesus A. De Loera works in discrete mathematics. He is particularly interested in applications of discrete\ncomputational geometry\n, in topics such as algorithms, optimization, data science, statistics, and operation research. But he has also studied the combinatorial and topological structures arising from combinatorial and algebraic questions too.\nImportant objects in De Loera's research are\nconvex polytopes\n. In two and three dimensions (polygons and polyhedra) were extensively studied by the ancient Greeks. In this century convex\npolytopes\nhave appeared in many areas of mathematics. They appear in\nalgebraic geometry\nin connection with toric varieties, in representation theory in connection to important invariants; and they are also central to\nlinear programming\n, probability, game theory, and other applied fields too\narXiv:math.CO/0303.5228\n."
+    },
+    "Fereydoun Hormozdiari": {
+        "profile_url": "https://cs.ucdavis.edu/directory/fereydoun-hormozdiari",
+        "tag": [
+            "machine-learning"
+        ],
+        "websites": [
+            "http://www.hormozdiarilab.org/"
+        ],
+        "email": "fhormozd@ucdavis.edu",
+        "description": "\nResearch Interests\nAlgorithms for sequence (Genome) analysis\nComputational methods for structural variation discovery and genotyping:\nStructural variation are understudied type of genetic variation which have a significant effect on human health and evolution. As a lab we are working on developing novel computational methods for discovery of structural variation in whole-genome sequenced samples. We are interested in applying these methods to discover\u00a0novel structural variation associated with complex disorders (e.g. autism and cancer).\nGenome assembly:\nWe are interested in developing novel algorithms for better\nde novo\ngenome assembly using different sequencing technologies.\nSystem biology and disease predictions\nDiscovery of modules and pathways in complex disorders:\nOne of the main projects in my lab is developing algorithms for discovery of modules and pathways contributing to neurological disorders.\nPrediction of complex disorder using rare and common variants:\nFinally, we are also interested in developing new classification algorithms which can predict the phenotype (e.g. disease or normal) of samples only based on observed -omics data (e.g. variants, expression, etc)."
+    },
+    "Lifu Huang": {
+        "profile_url": "https://cs.ucdavis.edu/people/lifu-huang",
+        "tag": [
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://wilburone.github.io/"
+        ],
+        "email": "lfuhuang@ucdavis.edu",
+        "description": "\nHuang\u2019s research centers on Natural Language Processing, Multimodal Learning and Machine Learning, with a keen interest in developing efficient models and benchmarks to foster machine intelligence at a human level. His recent research interests include the\u00a0fundamentals,\u00a0understanding,\u00a0enhancing, and\u00a0forward-looking\u00a0of\u00a0Large Language Models (LLMs)\u00a0and\u00a0Vision-Language Models (VLMs), with broad downstream applications in NLP and Multimodal domains."
+    },
+    "Lifeng Lai": {
+        "profile_url": "https://cs.ucdavis.edu/directory/lifeng-lai",
+        "tag": [
+            "machine-learning"
+        ],
+        "websites": [
+            "https://faculty.engineering.ucdavis.edu/lai/"
+        ],
+        "email": "lflai@ucdavis.edu",
+        "description": "\nDr. Lai's recent research interests include information theory, machine learning, security and their applications. The\nLai group\nseeks to understand the fundamental\u00a0limits of these systems. These efforts will enable the design of efficient practical algorithms for communications and machine learning applications."
+    },
+    "Jasper Lee": {
+        "profile_url": "https://cs.ucdavis.edu/people/jasper-lee",
+        "tag": [
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://jasperchlee.github.io/"
+        ],
+        "email": "jasperlee@ucdavis.edu",
+        "description": "\nLearning theory, Machine Learning + Discrete Optimization"
+    },
+    "Pantelis Loupos": {
+        "profile_url": "https://cs.ucdavis.edu/directory/pantelis-loupos",
+        "tag": [
+            "machine-learning",
+            "data-science"
+        ],
+        "websites": [],
+        "email": "ploupos@ucdavis.edu",
+        "description": "\nSocial Customer Relationship Management, Digital Platforms, Business Analytics\nPantelis Loupos\u2019 research interests focus on understanding consumer behavior in digital platforms and in particular networked services. In particular, services\u00a0whose value is a function of the number of customers they have and their underlying network topology.\nFor empirical investigation, Loupos is using data from\nVenmo\n, a peer-to-peer mobile payment application, to understand the impact of heterogeneous social networks on customer activity and acquisition.\nFrom a theoretical standpoint, his mission is to develop an integrated customer relationship management framework that will account for a customer\u2019s social lifetime value. This will allow networked services to better calculate the \u201cvalue\u201d of their customers, and in turn, have a more accurate customer base corporate valuation.\nLoupos received his Ph.D. in Operations Management from the Kellogg School of Management at Northwestern University. He also holds a B.S. in Electrical Engineering and Computer Science from University of Patras, and an M.S. in Operations Research from the Georgia Institute of Technology."
+    },
+    "Norman Matloff": {
+        "profile_url": "https://cs.ucdavis.edu/directory/norman-matloff",
+        "tag": [
+            "machine-learning",
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://heather.cs.ucdavis.edu/matloff.html"
+        ],
+        "email": "matloff@cs.ucdavis.edu",
+        "description": "\nMachine learning;, data science,\u00a0parallel computation\nMatloff specializes in functional analysis and abstract probability theory. He currently focuses on machine learning, data science and parallel computation. He is a former appointed member of IFIP Working Group 11.3, an international committee concerned with database software security, established under the United Nations. His book Statistical Regression and Classification: from Linear Models to Machine Learning (CRC Press, 2017), was the recipient of the Ziegel Award in 2017."
+    },
+    "Iman Soltani": {
+        "profile_url": "https://cs.ucdavis.edu/directory/iman-soltani",
+        "tag": [
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://soltanilab.engineering.ucdavis.edu/",
+            "https://faculty.engineering.ucdavis.edu/soltani/biography/"
+        ],
+        "email": "isoltani@ucdavis.edu",
+        "description": "\nProfessor Soltani's research aims at developing machine learning, control and estimation tools to enable automation and robotics across scales from visualization and manipulation of the matter at the nano-scale, to assembly of complex automotive parts and autonomous driving. His research is interdisciplinary in nature involving computer science principles as well as electrical, optical, and mechanical engineering techniques. It further covers both heavily experimental/hands-on research such as development of novel medical devices as well as theoretical approaches with emphasis on data-efficient learning, estimation and control. As the nature of his research necessitates\nhis research team\nmembers come from various backgrounds and departments including ECE, MAE and CS."
+    },
+    "Aditya Thakur": {
+        "profile_url": "https://cs.ucdavis.edu/directory/aditya-thakur",
+        "tag": [
+            "machine-learning",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://thakur.cs.ucdavis.edu"
+        ],
+        "email": "avthakur@ucdavis.edu",
+        "description": "\nProgramming languages, machine learning, automated reasoning, software engineering\nThe goal of Dr. Thakur's research is to develop explainable and scalable program analysis tools and techniques to improve the reliability and performance of software systems. The nature of software engineering is changing, spurred by the adoption of practical machine-learning systems; this change requires exploring fundamentally new ways of developing, verifying, and deploying software."
+    },
+    "Hao Chen": {
+        "profile_url": "https://cs.ucdavis.edu/directory/hao-chen",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~hchen/"
+        ],
+        "email": "chen@ucdavis.edu",
+        "description": "\nSecurity, machine learning, software engineering\nProfessor Chen is interested in security, machine learning and software engineering.His group focuses on applying statistical machine learning to problems in security and program analysis, and on the robustness and explainability of machine learning."
+    },
+    "Raissa M. D'Souza": {
+        "profile_url": "https://cs.ucdavis.edu/directory/raissa-d-souza",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "http://mae.engr.ucdavis.edu/dsouza/"
+        ],
+        "email": "rmdsouza@ucdavis.edu",
+        "description": "\nNetwork science, complex systems, statistical physics, applied mathematics\nD'Souza uses the tools of statistical physics and applied mathematics to develop mathematical models capturing the interplay between the structure and function of networks, including dynamical processes unfolding on networks. Her focus is on the abrupt onset of large-scale connectivity in networks, network synchronization behaviors and models of cascading failure. The general principles derived provide insights into the behaviors of real-world networks such as infrastructure networks and social networks, and opportunities to identify small interventions to control the self-organizing, collective behaviors displayed in these systems. She collaborates broadly with faculty within the college and in physics, statistics, political science and the Primate Center."
+    },
+    "Vladimir Filkov": {
+        "profile_url": "https://cs.ucdavis.edu/directory/vladimir-filkov",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~filkov/"
+        ],
+        "email": "filkov@cs.ucdavis.edu",
+        "description": "\nData science, software engineering, systems biology, network science, algorithms\nFilkov is a data scientist specializing in producing analytics from large data sets in the areas of empirical software engineering, systems biology of plants, applied network theory and combinatorial algorithms. He co-directs the\nDECAL lab\n, which focuses on evidence-based methods to improve modern software engineering processes. He also works with plant biologists to understand and modify the processes of plant growth using genomic methods.\nThese efforts have resulted in the findings: a) in software engineering, that social organization and communication in developer teams is a key contributor to robust and sustainable software development; and b) in plant biology, of key genetic network components contributing to secondary growth in trees and circadian rhythm in plants."
+    },
+    "Seth Frey": {
+        "profile_url": "https://cs.ucdavis.edu/directory/seth-frey",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "https://enfascination.com/research"
+        ],
+        "email": "sethfrey@ucdavis.edu",
+        "description": "\nAbout\nI am an Assistant Professor of Communication at the University of California, Davis, in the\nComputational Communication\nlab. \u00a0Before a fellowship\nDartmouth College\u2019s interdisciplinary\nNeukom Institute\nfor Computational Science\n, I was a postdoctoral researcher at\nDisney Research\n, a part of Walt Disney Imagineering, where I applied my expertise to both theoretical and practical questions about engineered social systems, such as games, sports, online communities, and theme parks. In 2013, I earned a Ph.D. in Cognitive Science and Informatics at Indiana University, after two years at the\nNew England Complex Systems Institute\n. I earned my B.A. in Cognitive Science from UC Berkeley in 2004.\nResearch Focus\nAs a socially and computationally inflected cognitive scientist, I study human decision behavior in complex social environments.\nIn practice, I work back and forth between data science, behavioral experiments, and modeling to answer quantitative questions about human organizations, institutions, and communication. Some relevant research keywords include computational social science, strategic behavior, higher-level reasoning\n,\nscience of cooperatives, Ostrom Workshop,\nquantitative models of institutional evolution\n, online games, online communities, self-governance, cooperatives.\nStudents or aspiring graduate students:\nMy topics are diverse, but they generally have to do with governance technology or the reasoning/cognitive mechanisms of social-scale outcomes. If you are\ninterested in a data science training, particularly its applications at the intersection of communication, cognition, games, complex systems, or any combination of the above keywords, I'd be happy to talk. If you like being busy and pushing yourself, if you read a lot and enjoy thinking about society and going down personal research rabbit holes, I'll be eager to talk."
+    },
+    "Soheil Ghiasi": {
+        "profile_url": "https://cs.ucdavis.edu/directory/soheil-ghiasi",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "https://www.ece.ucdavis.edu/~soheil/"
+        ],
+        "email": "ghiasi@ucdavis.edu",
+        "description": "\nComputer engineering, embedded systems, smart health\nProfessor Ghiasi\u2019s research is in the broad area of computer engineering, with an emphasis on system-level design and optimization of embedded systems for emerging application domains, such as artificial intelligence and smart health. Specific topics of contribution include: wearable systems for non-invasive health monitoring;machine intelligence for devices at the edge of the cloud; modeling, analysis and optimization of cyber-physical systems.The research area offers an interesting blend of theory and practice, and finds applications in many disciplines ranging from medicine and agriculture to disaster response and defense."
+    },
+    "Martin Hilbert": {
+        "profile_url": "https://cs.ucdavis.edu/directory/martin-hilbert",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "http://www.martinhilbert.net/",
+            "https://css.ucdavis.edu/",
+            "http://c2.ucdavis.edu/",
+            "http://scholar.google.com/citations?user=Ue_a-6oAAAAJ/"
+        ],
+        "email": "hilbert@ucdavis.edu",
+        "description": "\nAbout\nMartin Hilbert pursues a multidisciplinary approach to understanding the role of digitalization in the development of complex social systems. Before joining UC Davis, he created and coordinated the Information Society Programme of United Nations Regional Commission for Latin America and the Caribbean (\nhttp://www.cepal.org/SocInfo\n). In his 15 years as United Nations Economic Affairs Officer he performed hands-on technical assistance in the field of digital development to presidents, government experts, legislators, diplomats, NGOs, and companies in more than 20 countries. Policy makers from the highest political levels have officially recognized the impact of these projects. International perspectives are no mere theoretical work obligation to him, as he speaks five languages, worked in four continents, and has traveled to over 70 countries.\nHe chairs UCD's DE in Computational Social Science (\nhttps://css.ucdavis.edu\n) and is co-founder of UCD's Computational Communication Research Lab (\nhttp://c2.ucdavis.edu\n).\nResearch Focus\nProfessor Hilbert is interested in both the theory and practice of digitalization. In search for a deeper theoretical understanding of the workings of the digital age, he uses the formal mathematical tools of information theory to develop a coherent intellectual framework for analyzing information societies. At the same time, his research monitors and analyzes the practical implications of the incessant evolution of the digital age, including questions of social inequality (aka 'digital divide'), the use of digital trace data to monitor development (aka 'big data'), and the effects of digitalization on the scientific method ('computational social science').\nHe has written several books about digital technology for international development and published in recognized academic journals, including Science, Psychological Bulletin, World Development, Complexity, JASIST, Telecommunications Policy, and Technological Forecasting and Social Change. His research findings have been featured in Scientific American, the Wall Street Journal, the Washington Post, The Economist, NPR, BBC, Die Welt, Correio Braziliense, La Repubblica and El Pais, among others.\nView his complete list of publications\n.\nTeaching\nProfessor Hilbert walks the talk of digitalization by employing a carefully selected mix of online and offline educational tools for his course offerings. Innovative digital methods for education allow for unprecedented possibilities in terms of interdisciplinary collaboration, fostering of diversity, mass-customization for tailored student needs, and international reach. Professor Hilbert teaches undergraduate online courses on \"\nDigital Technology and Social Change\n\" (CMN 170V) and \"\nComputational Social Science\n\" (CMN 150V), as well as a\nMOOC on Complex Systems in Spanish\n, and diverse graduate-level courses on information theory (aka the 'mathematical theory of communication')."
+    },
+    "David A. Liem": {
+        "profile_url": "https://cs.ucdavis.edu/directory/david-liem",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "https://physicians.ucdavis.edu/details/73579/david-liem-cardiovascular_medicine-sacramento"
+        ],
+        "email": "daliem@ucdavis.edu",
+        "description": "\nAs a physician-scientist in cardiology, Dr. Liem's main interest and focus has been in Basic (translational) science combining cardiovascular research with Computational Biology. He has an expertise in Ischemic Heart Disease (heart attacks) and cardiomyopathies and heart failure (HFrEF, HFmEF, HFpEF). \u00a0Dr. Liem has worked on computational biomedicine and Text Mining to uncover molecular (multi-omics) underpinnings and biological pathways via Data Science and Bioinformatics approaches. Dr. Liem is currently studying how social determinants of health (SDoH) affect the clinical phenotypes and outcomes in heart failure patients."
+    },
+    "Dongyu Liu": {
+        "profile_url": "https://cs.ucdavis.edu/directory/dongyu-liu",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://dongyu.tech/",
+            "https://vialab.tech/",
+            "https://twitter.com/dongyuliu_"
+        ],
+        "email": "dyuliu@ucdavis.edu",
+        "description": "\nLiu's research lies at the intersection of Machine Learning (ML), Visualization (VIS), and Human-Computer Interaction (HCI). His research group\nVIA\nfocuses on designing and developing visualization-empowered human-AI teaming systems to augment human intelligence for data-driven decision-making, by innovating at two fundamental building blocks: human-centered AI and human-AI interfaces. The central theme driving his group is the pursuit of \u201cbig data, intelligent algorithms, intuitive interfaces\u201d to bridge data gaps, making the data-to-decision process more efficient, effective, and trustworthy in critical domains such as sustainability and healthcare. The ultimate goal is to catalyze solutions to pressing challenges in these areas so as to improve the quality of human life and the environment. Prospective students and collaborators are warmly invited to join his group's research journey."
+    },
+    "Xin  Liu": {
+        "profile_url": "https://cs.ucdavis.edu/directory/xin-liu",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://xinliu.engineering.ucdavis.edu"
+        ],
+        "email": null,
+        "description": "\nComputer networks, machine learning, data science\nLiu performs research in computer networks and machine learning. Currently, her work focuses on data-driven networking and machine learning applications in human and animal healthcare."
+    },
+    "Kwan-Liu  Ma": {
+        "profile_url": "https://cs.ucdavis.edu/directory/kwan-liu-ma",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://www.cs.ucdavis.edu/~ma",
+            "https://vidi.cs.ucdavis.edu"
+        ],
+        "email": "ma@cs.ucdavis.edu",
+        "description": "\nVisualization, computer graphics, human computer interaction, high-performance computing\nMa aims to make visualization an enabling tool for big data analytics and discoveries. His research group\nVIDI\nis known for their remarkable research innovations in visualization design and incorporating machine learning and high-performance computing to achieve high level of usability. His research benefits almost all areas of business, medicine and healthcare, engineering designs, and scientific research as these studies and practices become increasingly data-driven. He welcomes prospective students and collaborators to join his research endeavor."
+    },
+    "Joshua McCoy": {
+        "profile_url": "https://cs.ucdavis.edu/directory/joshua-mccoy",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "http://joshmccoy.com",
+            "https://arts.ucdavis.edu/faculty-profile/joshua-mccoy"
+        ],
+        "email": "jamccoy@ucdavis.edu",
+        "description": "\nArtificial intelligence, computational media, games\nMcCoy is interested in interactive storytelling and social behavior in characters. His lab focuses on applying artificial intelligence techniques, social science, the humanities, art, design and game technology to create new interactive media experiences. The goal of McCoy's work is to create virtual characters whose fidelity of social and story performances approaches that of human actors."
+    },
+    "Sean Peisert": {
+        "profile_url": "https://cs.ucdavis.edu/directory/sean-peisert",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "https://www.cs.ucdavis.edu/~peisert/"
+        ],
+        "email": "speisert@ucdavis.edu",
+        "description": "\nDr. Sean Peisert is a senior scientist at Lawrence Berkeley National Laboratory, where he leads research in computer security. He is also a full adjunct professor at the University of California, Davis; Director and PI of Trusted CI, the NSF Cybersecurity Center of Excellence; His current focus is research of techniques that enable secure and privacy-preserving analysis of scientific data, and improving security in high-performance computing systems, and other research cyberinfrastructure, and power grid control systems.\nDr. Peisert is also a member of the Graduate Groups in Computer Science, Electrical and Computer Engineering, Health Informatics, and Forensic Sciences.\nTitles/Joint Appointments\nSenior Scientist\nComputing Sciences Research\nLawrence Berkeley National Laboratory\nAdjunct Professor\nDepartment of Computer Science\nUniversity of California, Davis\nAdjunct Professor\nDivision of Health Informatics\nDepartment of Public Health Sciences\nUniversity of California, Davis School of Medicine"
+    },
+    "Setareh Rafatirad": {
+        "profile_url": "https://cs.ucdavis.edu/directory/setareh-rafatirad",
+        "tag": [
+            "data-science",
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~srafatir/"
+        ],
+        "email": "srafatirad@ucdavis.edu",
+        "description": "\nData Analytics , Data Mining , Applied Machine Learning, Real-estate Housing Analytics"
+    },
+    "Hao-Chuan  Wang": {
+        "profile_url": "https://cs.ucdavis.edu/directory/hao-chuan-wang",
+        "tag": [
+            "data-science"
+        ],
+        "websites": [
+            "http://www.haochuanwang.info/"
+        ],
+        "email": "hciwang@ucdavis.edu",
+        "description": "\nHuman-computer interaction, CSCW and social computing, society and technology, data science\nWang is interested in human-computer interaction research with a focus on supporting all different types of social interactions, collaborations and communications in various theoretical and application contexts. He created and leads the Collaborative and Social Computing Lab, gathering students and researchers to take human-centered perspectives and approaches to understand, design and evaluate interactive and collaborative systems for problem solving and value creation. These efforts have contributed to the design of intelligent and interactive tools to support team diversity, interpersonal conversation, non-verbal communication and group creativity. These tools can be shaped to address large-scale societal issues, such as bridging cultural and language gaps between global co-workers, and support expert-novice knowledge transfer to ensure the wellness and sustainability of work practices in the contexts of platform and gig economies."
+    },
+    "Roger Goldman": {
+        "profile_url": "https://cs.ucdavis.edu/directory/roger-goldman",
+        "tag": [
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://health.ucdavis.edu/radiology/team/42868/roger-goldman---vascular-and-interventional-radiology-sacramento/"
+        ],
+        "email": "regoldman@ucdavis.edu",
+        "description": "\nDr. Goldman's research focuses on novel technological solutions to complex problems in diagnostic and interventional medicine and surgery. In addition to research, he collaborates in training the next generation of thought leaders in interventional radiology and biomedical engineering."
+    },
+    "Hamed Pirsiavash": {
+        "profile_url": "https://cs.ucdavis.edu/directory/hamed-pirsiavash",
+        "tag": [
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~hpirsiav/"
+        ],
+        "email": "hpirsiav@ucdavis.edu",
+        "description": "\nHamed Pirsiavash is an associate professor at the University of California, Davis. Prior to this, he was an associate professor at the University of Maryland Baltimore County and a postdoctoral research associate at MIT. He obtained his PhD at the University of California Irvine. He does research in the intersection of computer vision and machine learning. More specifically, he is interested in self-supervised representation learning and adversarial robustness of deep models."
+    },
+    "Zubair Shafiq": {
+        "profile_url": "https://cs.ucdavis.edu/directory/zubair-shafiq",
+        "tag": [
+            "artificial-intelligence-and-machine-learning"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~zubair/"
+        ],
+        "email": "zshafiq@ucdavis.edu",
+        "description": "\nInternet privacy and security using network measurement and machine learning\nShafiq's work focuses on making the internet more private, secure, and efficient. His research group takes a data-driven approach to addressing emergent privacy, security, and performance issues using network measurement and machine learning techniques. He currently co-leads\nProperData\n, the NSF Frontier Center on Protecting Personal Data Flow on the internet."
+    }
+}
