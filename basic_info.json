@@ -187,7 +187,8 @@
         "tag": [
             "machine-learning",
             "data-science",
-            "artificial-intelligence-and-machine-learning"
+            "artificial-intelligence-and-machine-learning",
+            "database-systems"
         ],
         "websites": [
             "http://heather.cs.ucdavis.edu/matloff.html"
@@ -212,7 +213,8 @@
         "profile_url": "https://cs.ucdavis.edu/directory/aditya-thakur",
         "tag": [
             "machine-learning",
-            "artificial-intelligence-and-machine-learning"
+            "artificial-intelligence-and-machine-learning",
+            "software-engineering"
         ],
         "websites": [
             "https://thakur.cs.ucdavis.edu"
@@ -221,15 +223,15 @@
         "description": "\nProgramming languages, machine learning, automated reasoning, software engineering\nThe goal of Dr. Thakur's research is to develop explainable and scalable program analysis tools and techniques to improve the reliability and performance of software systems. The nature of software engineering is changing, spurred by the adoption of practical machine-learning systems; this change requires exploring fundamentally new ways of developing, verifying, and deploying software."
     },
     "Hao Chen": {
-        "profile_url": "https://cs.ucdavis.edu/directory/hao-chen",
-        "tag": [
-            "data-science"
-        ],
+        "profile_url": "https://statistics.ucdavis.edu/people/hao-chen",
         "websites": [
-            "https://web.cs.ucdavis.edu/~hchen/"
+            "https://anson.ucdavis.edu/~haochen/"
         ],
-        "email": "chen@ucdavis.edu",
-        "description": "\nSecurity, machine learning, software engineering\nProfessor Chen is interested in security, machine learning and software engineering.His group focuses on applying statistical machine learning to problems in security and program analysis, and on the robustness and explainability of machine learning."
+        "email": "hxchen@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nPh.D., Stanford University\nResearch Interests\nAnomaly/signal detection for streaming data\nGraph-based methods\nTwo-sample test for high-dimensional and non-Euclidean data\nChange-point analysis for high-dimensional and non-Euclidean data\nCategorical data analysis\nAllele-specific copy number variation analysis\nSingle cell sequencing data analysis\nSelected Works\nChen, H.\n(2018).\nSequential change-point detection based on nearest neighbors.\nThe Annals of Statistics\n, accepted.\nChu, L.,\nChen, H.\n(2018).\nAsymptotic distribution-free change-point detection for multivariate and non-Euclidean data.\nThe Annals of Statistics\n, to appear. [\nR package (gSeg)\n]\nChen, H.\n, Chen, X. and Su, Y. (2018).\nA weighted edge-count two sample test for multivariate and object data.\nJASA, Theory and Methods\n, 113(523):1146-1155.\n[R package (gTests)]\nUrrutia, E.,\nChen, H.\n, Zhou, Z., Zhang, N. and Jiang, Y. (2018).\nIntegrative pipeline for profiling DNA copy number and inferring tumor phylogeny.\nBioinformatics\n, bty057.\nMaxwell, K., Wubbenhorst, B., Wenz, B., Sloover, D., Pluta, J., Emery, L., Barrett, A., Kraya, A., Anastopoulos, I., Yu, S., Jiang, Y.,\nChen, H.\n, Zhang, N., Hackman, N., D'Andrea, K., Daber, R., Morrissette, J., Mitra, N., Feldman, M., Domchek, S. and Nathanson, K. L. (2017).\nBRCA locus-specific loss of heterozygosity in germline BRCA1 and BRCA2 carriers.\nNature Communications\n, 8(1), 319.\nChen, H.\n, Jiang, Y., Maxwell, K., Nathanson, K. and Zhang, N. (2017).\nAllele-specific copy number estimation by whole Exome sequencing.\nThe Annals of Applied Statistics\n, 11(2), 1169.\n[R package (falconx)"
     },
     "Raissa M. D'Souza": {
         "profile_url": "https://cs.ucdavis.edu/directory/raissa-d-souza",
@@ -246,7 +248,8 @@
         "profile_url": "https://cs.ucdavis.edu/directory/vladimir-filkov",
         "tag": [
             "data-science",
-            "artificial-intelligence-and-machine-learning"
+            "artificial-intelligence-and-machine-learning",
+            "software-engineering"
         ],
         "websites": [
             "https://web.cs.ucdavis.edu/~filkov/"
@@ -419,5 +422,359 @@
         ],
         "email": "zshafiq@ucdavis.edu",
         "description": "\nInternet privacy and security using network measurement and machine learning\nShafiq's work focuses on making the internet more private, secure, and efficient. His research group takes a data-driven approach to addressing emergent privacy, security, and performance issues using network measurement and machine learning techniques. He currently co-leads\nProperData\n, the NSF Frontier Center on Protecting Personal Data Flow on the internet."
+    },
+    "Prem Devanbu": {
+        "profile_url": "https://cs.ucdavis.edu/directory/prem-devanbu",
+        "tag": [
+            "software-engineering"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~devanbu/"
+        ],
+        "email": "ptdevanbu@ucdavis.edu",
+        "description": "\nSoftware engineering\nDevanbu uses\u00a0large open-source code and meta-data to improve software tools and processes. Devanbu's research group, called\nDECAL\n,\u00a0works closely with industrial partners."
+    },
+    "Karl  Levitt": {
+        "profile_url": "https://cs.ucdavis.edu/directory/karl-levitt",
+        "tag": [
+            "software-engineering"
+        ],
+        "websites": [
+            "http://seclab.cs.ucdavis.edu/"
+        ],
+        "email": "levitt@cs.ucdavis.edu",
+        "description": "\nCybersecurity, software engineering, formal methods, machine learning, computer security\nLevitt is interested in a broad range of topics associated with cybersecurity, addressing fundamental models, security solutions including approaches to reasoning about their correctness, all driven by applications for which security is a pressing requirement. A primary focus of his research is \u201cresilience\u201d, the goal of which are systems that can withstand attacks, possibly previously unseen, to provide an expected service with minimal interruption; the attainment of resilience depends on methods for detection, automated responses to stem future progression of an attack, and recovery to an operational state. Among the applications he is currently considering are autonomous vehicles including the infrastructures that support them, large-scale water delivery systems and other cyber physical systems including approaches to their verification with respect to security requirements."
+    },
+    "Cindy Rubio Gonz\u00e1lez": {
+        "profile_url": "https://cs.ucdavis.edu/directory/cindy-rubio-gonzalez",
+        "tag": [
+            "software-engineering"
+        ],
+        "websites": [
+            "http://web.cs.ucdavis.edu/~rubio/"
+        ],
+        "email": "crubio@ucdavis.edu",
+        "description": "\nProgramming languages, software engineering\nRubio's work spans the areas of programming languages and software engineering, with a focus on program analysis for automated bug finding and program optimization. Rubio's research group is particularly interested in developing analysis tools to improve the reliability and performance of systems software and scientific computing applications. Rubio currently leads\nBugSwarm\n, an infrastructure and dataset of real-world reproducible failures and fixes."
+    },
+    "Caleb Stanford": {
+        "profile_url": "https://cs.ucdavis.edu/directory/caleb-stanford",
+        "tag": [
+            "software-engineering",
+            "database-systems"
+        ],
+        "websites": [
+            "https://web.cs.ucdavis.edu/~cdstanford/"
+        ],
+        "email": "cdstanford@ucdavis.edu",
+        "description": "\nCaleb's research applies programming languages techniques to improve the design, tool support, and reliability of real-world software systems, including data processing systems and distributed systems. His current work centers around three thrusts: securing the Rust programming language, verifying software based on regular expressions, and verifying dataflow programs that run in the cloud."
+    },
+    "Mohammad  Sadoghi": {
+        "profile_url": "https://cs.ucdavis.edu/directory/mohammad-sadoghi",
+        "tag": [
+            "database-systems"
+        ],
+        "websites": [
+            "https://expolab.org/"
+        ],
+        "email": "msadoghi@ucdavis.edu",
+        "description": "\nDatabase systems, blockchains, transaction processing, stream processing, hardware acceleration\nSadoghi's research spans all facets of secure and massive-scale data management. He leads the\nExpoLab research group\nwith the aim to pioneer a resilient data platform at scale, a distributed ledger centered around a democratic and decentralized computational model (\nBlockchain Textbook\n,\nConsensus Texbook\n,\nResilientDB Fabric\n,\nJourney\n,\nOutlook\n/\nSlides\n,\nTalk\n/\nSlides\n,\nBitcoin Radio\n,\nCode\n,\nHands-on\n,\nWiki\n) that further aims to unify secure transactional and real-time analytical processing (\nTransaction Textbook\n,\nL-Store\n,\nQueCC\n). We envision ResilientDB to serve as a platform to foster \"creativity\". He has co-founded a blockchain company called\nMoka Blox\n, a spin-off of our\nResilientDB Fabric\n."
+    },
+    "Nicolai Amann": {
+        "profile_url": "https://statistics.ucdavis.edu/people/nicolai-amann",
+        "websites": [
+            "https://homepage.univie.ac.at/nicolai.amann"
+        ],
+        "email": "ndamann@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests:\nUncertainty quantification in high dimensions, algorithmic stability, and predictive inference"
+    },
+    "Ethan Anderes": {
+        "profile_url": "https://statistics.ucdavis.edu/people/ethan-anderes",
+        "websites": [
+            "https://github.com/EthanAnderes"
+        ],
+        "email": "ebanderes@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nSpatial Statistics\nNon-Stationary Random Fields\nApplications to Astronomy and Cosmology"
+    },
+    "Alexander Aue": {
+        "profile_url": "https://statistics.ucdavis.edu/people/alexander-aue",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/alexander-aue",
+            "https://anson.ucdavis.edu/~alexaue/"
+        ],
+        "email": "aaue@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nTime Series Analysis\nChange-Point Problems\nFunctional Data\nHigh Dimensional Statistics\nSelected Works\nBootstrapping spectral statistics in high dimensions. Preprint (with M. Lopes and Andrew Blandino).\nTesting for stationarity of functional time series in the frequency domain. Preprint (with A. van Delft).\n[Preprint]\n[Supp]\nEstimating functional time series by moving average process fitting. Preprint (with J. Klepsch).\nAn adaptable generalization of Hotelling's $T^2$ in high dimensions.\u00a0Preprint (with H. Li, D. Paul, J. Peng and P. Wang).\nEstimation of prediction error in time series. Preprint (with P. Burman).\nDetecting and dating structural breaks in functional data without dimension reduction.\nJournal of the Royal Statistical Society, Series B\n, to appear (with G. Rice and O. S\u00f6nmez).\n[Preprint]\n[Supp]"
+    },
+    "Krishnakumar Balasubramanian": {
+        "profile_url": "https://statistics.ucdavis.edu/people/krishnakumar-balasubramanian",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/krishnakumar-balasubramanian",
+            "https://sites.google.com/view/kriznakumar/home"
+        ],
+        "email": "kbala@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": ""
+    },
+    "Prabir Burman": {
+        "profile_url": "https://statistics.ucdavis.edu/people/prabir-burman",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/prabir-burman"
+        ],
+        "email": "pburman@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUC Berkeley, Ph.D.\nResearch Interests\nNonparametric function estimation\nModel fitting/selection\nImage analysis\nTime series\nDiscrete data\nSelected Works\nGrigione, M. M., P. Burman, S. Clavio, S. J. Harper, D. Manning, R. J. Sarno. (2013). A\u00a0comparative study between enteric parasites of coyotes in a protected and suburban habitat.\nUrban Ecosystems\n, 17: 1-10.\nGuha, P., K. Bhowmick, P. Mazumdar, M. Ghosal, I. Chakraborty, P. Burman. (2013).\u00a0Assessment of Insulin Resistance and Metabolic Syndrome in Drug Naive\u00a0Patients of\u00a0Bipolar Disorders.\nIndian Journal of Clinical Biochemistry\n, 29: 51-56.\nGhosal, M. K., P. Burman, V. Singh, S. Das, N. Paul, B. K. Ray, A. Hazra, T. K. Banerjee, A.\u00a0Basu, A. Chaudhuri, S. K. Das. (2014). Correlates of Functional Outcome Among Stroke Survivors in a Developing Country - A Prospective Community-Based Study from India.\nJournal of Stroke & Cerebrovascular Disease,\n23(10): 2614-2621.\nNoguchi, K., A. Aue and P. Burman. (2014). Exploratory Analysis and Modeling of Stock\u00a0Returns.\nJournal of Computational and Graphical Statistics\n. IN PRESS.\nBurman, P. (2014). A Hilbert-type inequality.\nMathematical Inequalities & Applications\n. IN PRESS.\nPaul, D., J. Peng and P. Burman. (2014). Nonparametric estimation of dynamics of monotone\u00a0trajectories. To Appear,\nAnnals of Statistics\n."
+    },
+    "Shizhe Chen": {
+        "profile_url": "https://statistics.ucdavis.edu/people/shizhe-chen",
+        "websites": [
+            "http://www.chenshizhe.com/"
+        ],
+        "email": "szdchen@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": null
+    },
+    "Xiucai Ding": {
+        "profile_url": "https://statistics.ucdavis.edu/people/xiucai-ding",
+        "websites": [
+            "http://xcding1212.github.io/"
+        ],
+        "email": "xcading@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests:\nManifold learning, deep learning, and large foundation models\nHigh-dimensional statistics and applied random matrix theory\nNon-stationary time series analysis\nApplications in biological and medical sciences"
+    },
+    "Christiana Drake": {
+        "profile_url": "https://statistics.ucdavis.edu/people/christiana-drake",
+        "websites": [
+            "https://ncst.ucdavis.edu/people/christiana-drake",
+            "https://anson.ucdavis.edu/~drake/",
+            "https://statistics.ucdavis.edu/people/christiana-drake"
+        ],
+        "email": "cmdrake@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUniversity of Washington, Seattle, Washington, Ph.D.\nResearch Interests\nCausal Inference\nMissing Data\nEpidemiology\nSelected Works\nLoux, TM, Drake, C, Smith-Gagen, J. A comparison of marginal odds ratio estimators.\nStatistical methods in medical research\n, 26(1): 155-175.\nLove, WJ, Lehenbauer, TW, Van Eenennaam, AL, Drake, CM, Kass, PH, Farver, TB, Aly, SS. Sensitivity and specificity of on-farm scoring systems and nasal culture to detect bovine respiratory disease complex in preweaned dairy calves.\nJournal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc\n, 28(2): 119-28.\nTownsend, MS, Shilts, MK, Styne, DM, Drake, C, Lanoue, L, Woodhouse, L, Allen, LH. Vegetable behavioral tool demonstrates validity with MyPlate vegetable cups and carotenoid and inflammatory biomarkers.\nAppetite\n, 107: 628-638.\nSmith-Gagen, J, Loux, T, Drake, C, P\u00e9rez-Stable, EJ. How Does Managed Care Improve the Quality of Breast Cancer Care Among Medicare-Insured Minority Women?\nJournal of racial and ethnic health disparities\n, 3(3): 496-507.\nSavoy, RM, Chen, L, Siddiqui, S, Melgoza, FU, Durbin-Johnson, B, Drake, C, Jathal, MK, Bose, S, Steele, TM, Mooso, BA, D'Abronzo, LS, Fry, WH, Carraway, KL, Mudryj, M, Ghosh, PM. Transcription of Nrdp1 by the androgen receptor is regulated by nuclear filamin A in prostate cancer.\nEndocrine-related cancer\n, 22(3): 369-86.\nAly, S.S., W.J. Love, D.R. Williams, T.W. Lehenbauer, A.Van Eenennaam, C. Drake, P.H. Kass and T.B. Farver. Agreement between bovine respiratory disease scoring systems for pre-weaned dairy calves.\nAnimal Health Research Reviews\n, ISSN 1466-2523."
+    },
+    "Jairo Fuquene Patino": {
+        "profile_url": "https://statistics.ucdavis.edu/people/jairo-fuquene-patino",
+        "websites": [
+            "https://www.jairofuquene.com"
+        ],
+        "email": "jafuquenepatino@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nPractical and theoretical Bayesian statistics with application to public health and medicine,\nDemography\nEnvironmental data\nSmall area estimation\nOfficial statistics\nfMRI and survey sampling data"
+    },
+    "Akira Horiguchi": {
+        "profile_url": "https://statistics.ucdavis.edu/people/akira-horiguchi",
+        "websites": [],
+        "email": "ahoriguchi@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nModel-based clustering\nApplication to flow cytometry\nNonparametrics\nRegression trees\nVariable activity"
+    },
+    "Fushing Hsieh": {
+        "profile_url": "https://statistics.ucdavis.edu/people/fushing-hsieh",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/fushing-hsieh"
+        ],
+        "email": "fhsieh@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nData Mechanics and Integrative Pattern Inferences on Complex Systems\nRecent Publications\nHsieh Fushing, Shu-Chun, Chen and Chii-Ruey, Hwang (2012) Discovering stock dynamics through multidimensional volatility-phases. Quantitative Finance. 12, 213\u2013230.\nHsieh Fushing, Shu-Chen Chen and Chii-Ruey Hwang. (2010) Non-parametric decoding on discrete time series and its application in bioinformatics. \u00a0Statistics in Bioscience. 2, 18-40.\nHsieh Fushing, Emilio Ferrer, Shuchun Chen, Iris B. Mauss and James J.(2011) Examining coherence in emotion response system through network structure and signal transmission. Psychometrika, 76, 124-152.\nChang, Lo-Bin, Geman, Stuart, \u00a0Hsieh, Fushing and Hwang Chii-Ruey. \u00a0(2013). Invariance in the recurrence of large returns and the validation of models of price dynamics. Phy. Rev. E, 88, 022116\nHsieh Fushing, Shu-Chen Chen and Chii-Ruey Hwang. (2013). Discovering focal regions of slightly-aggregated sparse signals. Computational Statistics, 28, 2295-2308\nHsieh Fushing, Shu-Chen Chen and Chii-Ruey Hwang. (2014). Single stock dynamics on high-frequency data: From a compressed coding perspective. PLoS One 9(2): e85018"
+    },
+    "Jiming Jiang": {
+        "profile_url": "https://statistics.ucdavis.edu/people/jiming-jiang",
+        "websites": [
+            "https://anson.ucdavis.edu/~jiang/"
+        ],
+        "email": "jimjiang@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nPh.D. Statistics (UC Berkeley, 1995)\nResearch Interests\nMixed effects models\nGeneralized linear models\nModel selection\nSmall area estimation\nBig Data intelligence\nPrecision medicine\nPharmacokinetics\nAsymptotic theory\nSpatial statistics\nTesting hypotheses\nLongitudinal data analysis\nMatrix algebra\nNumerical analysis\nMonte Carlo methods\nReliability\nSelected Works\nJiang, J. (2017), Asymptotic Analysis of Mixed Effects Models: Theory, Application, and Open Problems, Chapman & Hall/CRC.\n(\nlink\n)\nJiang, J., Rao, J. S., Fan, J., and Nguyen, T. (2018), Classified mixed model prediction, Journal of the American Statistical Association 113, 269-279. (\nlink\n)\nJiang, J. and Rao, J. S. (2020), Robust small area estimation: An overview, Annual Review of Statistics and Its Applications 7, 337-360. (\nlink\n)\nJiang, J. and Torabi, M. (2020), Sumca: Simple, unified, Monte-Carlo assisted approach to second-order unbiased MSPE estimation, Journal of the Royal Statistical Society, Series B 82, 467-485. (\nlink\n)\nJiang, J., Feuer, E. J., Li, Y., Nguyen, T., and Yu, M. (2021), Inference about Age-standardized Rates with Sampling Errors in the Denominators, Statistical Methods in Medical Research 30, 535\u2013548. (\nlink\n)\nJiang, J. and Nguyen, T. (2021), Linear and Generalized Linear Mixed Models and Their Applications, 2nd ed., Springer, New York. (\nlink\n)\nJiang, J., Wand, M. P. and Bhaskaran, A. (2022), Usable and precise asymptotics for generalized linear mixed model analysis and design, Journal of the Royal Statistical Society, Series B 84, 55\u201382. (\nlink\n)\nJiang, J. (2022), Large Sample Techniques for Statistics, 2nd ed., Springer, New York. (\nlink\n)"
+    },
+    "Qijia Jiang": {
+        "profile_url": "https://statistics.ucdavis.edu/people/qijia-jiang",
+        "websites": [],
+        "email": "qjang@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nConnection between optimization, MCMC sampling, dynamical system, interacting particle system\nBlending machine learning with traditional numerical algorithms for: PDE, sampling, optimal transport, control\nAI4Science: data-driven approaches to computational problems arising in physics & chemistry"
+    },
+    "Can Le": {
+        "profile_url": "https://statistics.ucdavis.edu/people/can-le",
+        "websites": [
+            "https://sites.google.com/view/canmle/home",
+            "https://statistics.ucdavis.edu/people/can-le"
+        ],
+        "email": "canle@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUniversity of Michigan, Ph.D.\nResearch Interests\nNetwork Analysis\nHigh-Dimensional Problems\nSelected Works\nCan M. Le, Elizaveta Levina.\nEstimating the number of communities in networks by spectral methods\n.\narXiv:1507.00827\n, 2015.\nCan M. Le, Elizaveta Levina, Roman Vershynin.\nConcentration and regularization of random graphs\n.\narXiv:1506.00669\n, 2015.\nCan M. Le, Elizaveta Levina, Roman Vershynin.\nSparse random graphs: regularization and concentration of the Laplacian\n.\narXiv:1502.03049\n. This manuscript was not published since it was superseded by our\nnewer paper\n.\nCan M. Le, Elizaveta Levina, Roman Vershynin.\nOptimization via low-rank approximation for community detection in networks\n.\nAnn. Statist.\n, 44(1):373-400, 2016.\nCan M. Le.\nOn Subspace-Hypercyclic Operators\n.\nProc. Amer. Math. Soc.\n(139) 2847-2852, 2011.\nCan M. Le.\nBanach space of functions with the uniform Dini property\n.\nKharkov National University Vestnik.\n(828) 185-196, 2008."
+    },
+    "Thomas Lee": {
+        "profile_url": "https://statistics.ucdavis.edu/people/thomas-lee",
+        "websites": [
+            "http://anson.ucdavis.edu/~tcmlee/"
+        ],
+        "email": "tcmlee@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nMacquarie University and CSIRO Mathematical and Information Sciences, Sydney, Australia, Ph.D.\nResearch Interests\nNonparametic and Semiparametric Modeling\nStatistical Learning\nStatistical Image and Signal Processing\nStatistical applications in other scientific disciplines\nSelected Works\nGao, Qi;\nLee, Thomas C. M.\n; Yau, Chun Yip (2017), \"Nonparametric Modeling and Break Point Detection for Time Series Signal of Counts\",\nSignal Processing\n138\n, 307-312.\nMcConville, Kelly S.; Breidt, F. Jay;\nLee, Thomas C. M.\nand Moisen, Gretchen G. (2017), \"Model-Assisted Survey Regression Estimation with the Lasso\",\nJournal of Survey Statistics and Methodology\n5\n, 131-158.\nWong, Raymond K. W.; Storlie, Curtis B. and\nLee, Thomas C. M.\n(2017), \"A Frequentist Approach to Computer Model Calibration\",\nJournal of the Royal Statistical Society Series B\n79\n, 635-648.\nFan, Minjie; Paul, Debashis;\nLee, Thomas C. M.\nand Matsuo, Tomoko (2017+), \"A Multi-Resolution Model for Non-Gaussian Random Fields on a Sphere with Application to Ionospheric Electrostatic Potentials\",\nAnnals of Applied Statistics\n, to appear.\nFan, Minjie; Paul, Debashis;\nLee, Thomas C. M.\nand Matsuo, Tomoko (2017+), \"Modeling Tangential Vector Fields on a Sphere\",\nJournal of the American Statistical Association\n, to appear.\nWong, Raymond K. W. and\nLee, Thomas C. M.\n(2017+), \"Matrix Completion with Noisy Entries and Outliers\",\nJournal of Machine Learning Research\n79\n, to appear."
+    },
+    "Xiaodong Li": {
+        "profile_url": "https://statistics.ucdavis.edu/people/xiaodong-li",
+        "websites": [
+            "http://anson.ucdavis.edu/~xdgli/"
+        ],
+        "email": "xdgli@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nStanford University, Ph.D\nResearch Interests\nHigh-Dimensional Statistics\nNetwork Analysis\nMachine Learning Theory\nMathematical Signal Processing\nSelected Works\nConvex Relaxation Methods for Community Detection\n[\nPDF\n]\nXiaodong Li, Yudong Chen, and Jiaming Xu, submitted.\nSubspace Perspective on Canonical Correlation Analysis: Dimension Reduction and Minimax Rates\n[\nPDF\n]\nZhuang Ma and Xiaodong Li, submitted.\nMemory-efficient Kernel PCA via Partial Matrix Sampling and Nonconvex Optimization: a Model-free Analysis of Local Minima\n[\nPDF\n]\nJi Chen and Xiaodong Li, submitted.\nRapid, Robust, and Reliable Blind Deconvolution via Nonconvex Optimization\n[\nPDF\n]\nXiaodong Li, Shuyang Ling, Thomas Strohmer, and Ke Wei, Applied and Computational Harmonic Analysis, to appear.\nOptimal Rates of Convergence for Noisy Sparse Phase Retrieval via Thresholded Wirtinger Flow\n[\nPDF\n]\nT. Tony Cai, Xiaodong Li (corresponding author), and Zongming Ma, the Annals of Statistics 44(5), 2221-2251, 2016.\nDense error correction for low-rank matrices via principal component pursuit\n[\nPDF\n]\nA. Ganesh, J. Wright, X. Li, E. Candes and Y. Ma, Information Theory Proceedings (ISIT), 2010 IEEE International Symposium on, 1513-1517."
+    },
+    "Miles Lopes": {
+        "profile_url": "https://statistics.ucdavis.edu/people/miles-lopes",
+        "websites": [
+            "https://anson.ucdavis.edu/~melopes/",
+            "https://statistics.ucdavis.edu/people/miles-lopes",
+            "https://cedar.ucdavis.edu/people/miles-lopes"
+        ],
+        "email": "melopes@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUC Berkeley Ph.D.\nResearch Interests\nBootstrap methods\nHigh-dimensional inference\nError estimation for randomized algorithms\nSelected Works\nCentral limit theorem and bootstrap approximation in high dimensions: Near 1/\u221an rates via implicit smoothing,\nM. E. Lopes\nto appear:\nThe Annals of Statistics\n, 2022+.\n[arxiv]\nA sharp lower-tail bound for Gaussian maxima with application to bootstrap methods in high dimensions,\nM. E. Lopes, J. Yao\nElectronic Journal of Statistics\n, 2022.\n[pdf]\n[link]\nRates of bootstrap approximation for eigenvalues in high-dimensional PCA,\nJ. Yao, M. E. Lopes\nto appear:\nStatistica Sinica\n, 2022+.\n[arxiv]\nBootstrapping max statistics in high dimensions:\nNear-parametric rates under weak variance decay and application to functional and multinomial data,\nM. E. Lopes, Z. Lin, H.-G. Mueller\nThe Annals of Statistics\n, 2020.\n[link]\n[pdf]\n[arxiv]\nEstimating the algorithmic variance of randomized ensembles via the bootstrap,\nM. E. Lopes\nThe Annals of Statistics\n, 2019.\n[link]\n[pdf]\n[arxiv]\nBootstrapping spectral statistics in high dimensions,\nM. E. Lopes, A. Blandino, A. Aue\nBiometrika\n, 2019.\n[link]\n[arxiv]"
+    },
+    "Ricardo Masini": {
+        "profile_url": "https://statistics.ucdavis.edu/people/ricardo-masini",
+        "websites": [
+            "https://anson.ucdavis.edu/~rmasini"
+        ],
+        "email": "rmasini@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests:\nHigh Dimensional CLT,\nStrong Approximation,\nDependent Data,\nFactor models,\nCasual inference."
+    },
+    "Hans-Georg Mueller": {
+        "profile_url": "https://statistics.ucdavis.edu/people/hans-georg-muller",
+        "websites": [
+            "http://anson.ucdavis.edu/~mueller/"
+        ],
+        "email": "hgmueller@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nFunctional Data Analysis\nFr\u00e9chet Analysis of Random Objects: Distributions, Covariances,\nNetworks\nApplications: Longitudinal Studies, Brain Imaging, Growth and Development, Aging and Longevity\nSelected Works\nPetersen, A., M\u00fcller, H.G. (2019). Fr\u00e9chet regression for random objects with Euclidean predictors.\nAnnals of Statistics 47, 691-719.\nDubey, P., M\u00fcller, H.G. (2020). Fr\u00e9chet change-point detection. Annals of Statistics 48, 3312-3335.\nCarroll, C., Bhattacharjee, S., Chen, Y., Dubey, P., Fan, J. Gajardo, \u2000 A., Zhou, X., M\u00fcller, H.G.,\nWang, J.L. (2021). Time dynamics of COVID-19. Scientific Reports 10, 21040\nLin, Z., M\u00fcller, H.G. (2021). Total variation regularized Fr\u00e9chet regression for metric-space valued\ndata. Annals of Statistics 49, 3510-3533.\nChen, Y., Lin, Z., M\u00fcller, H.G. (2022). Wasserstein regression. J. American Statistical Association,\nhttps://doi.org/10.1080/01621459.2021.1956937\nGajardo, \u00c1., M\u00fcller, H.G. (2022). Cox process regression. IEEE Transactions on Information Theory\n,\n68, 1133-1156."
+    },
+    "Jie Peng": {
+        "profile_url": "https://statistics.ucdavis.edu/people/jie-peng",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/jie-peng",
+            "https://anson.ucdavis.edu/~jie/"
+        ],
+        "email": "jiepeng@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nStanford University, Ph.D\nResearch Interests\nGraphical Models\nHigh Dimension Inference\nFunctional Data Analysis\nStatistical Genomics\nNeuroimaging\nSelected Works\nYan H., Carmichael O., Paul D., and\nJ. Peng\n. Estimating fiber orientation distribution from diffusion MRI with spherical needlets (2018).\nTo appear on Medical Imaging Analysis\n.\n[arXiv:1612.07439]\nZhou S., Paul D., and\nJ. Peng\n. Modeling subject-specific nonautonomous dynamics (2018). Statistica Sinica 28 (2018), 423-447.\n[pdf]\nChoi Y., Coram M.,\nJ. Peng,\nand Tang H. A Poisson Log-Normal model for constructing gene covariation network using RNA-seq data (2017).\u00a0 Journal of Computational Biology, 24(7):721-731.\n[pdf]\nAn C., Ichihashi Y.,\nJ. Peng\n, Sinha N.R., Hagiwara N. (2016). Transcriptome dynamics and potential roles of Sox6 in the postnatal heart.\u00a0 PloS One 11(11): e0166574.\n[html]\nPaul D.,\nJ. Peng\n, and P. Burman. Nonparametric estimation of dynamics of monotone trajectories (2016).\u00a0 The Annals of Statistics, Vol. 44, No. 6, 2401-2432.\n[pdf]\nWong, R.K.W., T.C.M. Lee, D. Paul, and\nJ. Peng\n. Rejoinder: Fiber direction estimation, smoothing and tracking in diffusion MRI (2016). The Annals of Applied Statistics, 10(3): 1166-1169.\n[pdf]"
+    },
+    "Wolfgang Polonik": {
+        "profile_url": "https://statistics.ucdavis.edu/people/wolfgang-polonik",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/wolfgang-polonik",
+            "https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html"
+        ],
+        "email": "wpolonik@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nMathematical Statistics\nNonparametric Statistics\nShape Constraints\nModality\nNonstationary Time Series\nEmpirical Process Theory\nTopological Data Analysis\nRandom Networks\nSelected Works\nNeighborhood selection with application to social networks\n(joint with N. Wang; submitted)\nExtrema of Gaussian fields on growing manifolds\n(joint with W. Qiao; Bernoulli)\nLocal Neighborhood Fusion in Locally Constant Gaussian Graphical Models.\n(joint with A. Ganguly; submitted)\nTheoretical Analysis of Nonparametric Filament Estimation\n(joint with W. Qiao; appeared in The Annals of Statistics, 44, 1269-1297),\nTechnical supplement\nWeighted sums and residual empirical processes for time-varying processes\n(joint with G. Chandler; appeared in . J. Time Ser. Anal. 38, 72 - 98)\nConfidence sets for level sets\n(joint with E. Mammen; appeared in Journal of Multivariate Analysis, 122, 202-214, 2013)"
+    },
+    "Bala Rajaratnam": {
+        "profile_url": "https://statistics.ucdavis.edu/people/bala-rajaratnam",
+        "websites": [
+            "https://statistics.ucdavis.edu/people/bala-rajaratnam"
+        ],
+        "email": "brajaratnam@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nCovariance Estimation\nGraphical models\nHigh dimensional inference\nBayesian methods\nEnvironmental Statistics\nPositivity"
+    },
+    "Dogyoon Song": {
+        "profile_url": "https://statistics.ucdavis.edu/people/dogyoon-song",
+        "websites": [],
+        "email": "dgsong@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests\nOptimization\nMachine learning theory,\nHigh-dimensional statistics,\nCausal inference"
+    },
+    "Xiao Hui Tai": {
+        "profile_url": "https://statistics.ucdavis.edu/people/xiao-hui-tai",
+        "websites": [
+            "https://xhtai.github.io/"
+        ],
+        "email": "xtai@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nPh.D. Statistics (Carnegie Mellon University, 2019)\nResearch Interests\nUse of non-traditional sources of data to study problems in data-scarce settings, with a focus on conflict, crime and the developing world."
+    },
+    "Duncan Temple Lang": {
+        "profile_url": "https://statistics.ucdavis.edu/people/duncan-temple-lang",
+        "websites": [
+            "http://www.stat.ucdavis.edu/~duncan"
+        ],
+        "email": "dtemplelang@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUC Berkeley, Ph.D.\nResearch Interests\nStatistical & Scientific Computing Infrastructure e.g. programming languages & environments (e.g. R, Julia, Go, Rust, Python)\nParallel & Distributed Computing - technologies and algorithms\nData Technologies (e.g. Web API's, text search engines)\nData Visualization - static, interactive, dynamic, Web-based\nProvenance & Reproducibility - computations and data analysis process\nData Science pipeline and applications\nBooks\nXML and Web Technologies for Data Science with R\nDecember, 2013 with\nDeborah Nolan\nData Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving\nMarch 2015 with\nDeborah Nolan"
+    },
+    "Jane-Ling Wang": {
+        "profile_url": "https://statistics.ucdavis.edu/people/jane-ling-wang",
+        "websites": [
+            "http://anson.ucdavis.edu/~wang/"
+        ],
+        "email": "janelwang@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nEducation\nUC Berkeley, Ph.D.\nResearch Interests\nDeep Learning\nConformal Inference\nCausal Inference\nFunctional and\u00a0Longitudinal Data Analysis\nSurvival Analysis\nSelected Works\nY. Chen, S.-C. Lin, Y. Zhou, O. Carmichael, H.-G. M\u00fcller and J.-L. Wang. (2024). Gradient Synchronization for Multivariate Functional Data with Application to Brain Connectivity. \u00a0 J\nournal of Royal Statistical Society, Series B: Statistical Methodology\n.\n86\n, \u00a0694-713. (\nlink\n)\nC. Zhu, J. Yao and J.-L. Wang (2024). Testing independence for sparse longitudinal data.\nBiometrika\n,\n111\n1187-1199. (\nlink\n)\nJ. Hong, J. Yao, J. Mueller and J.-L. Wang (2024). SAND: Smooth imputation of sparse and noisy functional data with Transformer networks.\nAdvances in Neural Information Processing Systems\n37\n(\nNeurIPS 2024\n) (\nlink\n)\nQ. Zhong and J.-L. Wang (2024). Joint Modeling of Longitudinal and Survival Data.\nAnnual Review of Statistics and Its Application\n,\n12\n. 449-476. (\nlink\n)\nC. Zhu and J.-L. Wang (2023). Testing Marginal Homogeneity for Functional Data: the Trouble with Sparse Data.\nJournal of Royal Statistical Society, Series B: Statistical Methodology\n.\n85\n, 705-731. (\nlink\n)\nZhong, Q., Mueller, J. and Wang, J.-L. (2022). Deep Learning for the Partial Linear Cox Model.\nAnnals of Statistics,\n50\n,\n1348-1375. (\nlink\n)\nLin, Z.\u00a0 and Wang, J.-L. (2022).\u00a0\u00a0Mean and covariance estimation for functional snippets.\nJournal of the American Statistical Association\n,\n117\n, 348-360. (\nlink\n)\nLin, Z. Wang, J.-L. and Q. Zhong (2021). Basis expansions for functional snippets.\nBiometrika\n,\n108\n, 709-726. (\nlink\n)\nZhong, Q., Mueller, J. and Wang, J.-L. (2021).\u00a0Deep Extended Hazard Models for Survival Analysis.\nAdvances in Neural Information Processing Systems (NeurIPS).\n(\nlink\n)\nYao, J.,\nMueller, J.\nand Wang, J.-L. (2021).\u00a0 Deep Learning for Functional Data Analysis with Adaptive Basis Layers. 2021\nInternational Conference in Machine Learning (ICML).\n(\nlink\n)\nYang, P., Chen, J.,\u00a0 Cho, C.-J., Wang, J.-L. and Jordan, M. (2020). Greedy Attack and Gumbel Attack: Generating Adversarial Examples on Discrete Data.\nJournal of Machine Learning Research\n21\n, 1-36. (\nlink\n)\nYang, P., Chen, J., Cho, C.-J., Wang, J.-L. and Jordan, M. (2020). ML-LOO: Detecting Adversarial Examples with Feature Attribution. Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI). (\nlink\n)"
+    },
+    "Xiner Zhou": {
+        "profile_url": "https://statistics.ucdavis.edu/people/xiner-zhou",
+        "websites": [],
+        "email": "xezhou@ucdavis.edu",
+        "tag": [
+            "statistics"
+        ],
+        "description": "\nResearch Interests:\nCausal inference methods for experimental and observational data\nStatistical applications in the social and biomedical sciences"
     }
 }
