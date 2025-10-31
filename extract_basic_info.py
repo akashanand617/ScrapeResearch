@@ -28,7 +28,7 @@ def extract_basic_info_cs(url):
                     continue
                 email = email_tag.text.strip() if email_tag else None
                 if name not in information:
-                    information[name] = {'profile_url': url_person, 'tag': [tag], 'websites': websites, 'email': email}
+                    information[name] = {'profile_url': url_person,'department':'CS', 'tag': [tag], 'websites': websites, 'email': email}
                 else:
                     information[name]['tag'].append(tag)
 
@@ -59,7 +59,7 @@ def extract_basic_info_stat(url):
             if not name or not url_person:
                 continue
             email = email_tag.text.strip() if email_tag else None
-            information[name] = {'profile_url': url_person, 'websites': websites, 'email': email, 'tag': ['statistics']}
+            information[name] = {'profile_url': url_person,'department':'Statistics','websites': websites, 'email': email, 'tag': ['statistics']}
         i += 1
     return information
 def extract_descriptions(information):
